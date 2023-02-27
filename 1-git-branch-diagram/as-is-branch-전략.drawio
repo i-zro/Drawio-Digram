@@ -1,25 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T06:51:29.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="_jgbCkKuqz2IwvwIuNbd" version="20.8.23" type="github" pages="4">
-  <diagram id="53IQXVl9icCSp_Kw3Ib1" name="AS-IS">
+<mxfile host="app.diagrams.net" modified="2023-02-27T08:07:25.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="lTOX3tzY15bZPXODtJyU" version="20.8.23" type="github" pages="4">
+  <diagram id="53IQXVl9icCSp_Kw3Ib1" name="[개발자] AS-IS">
     <mxGraphModel dx="1130" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-10" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-100" width="30" height="30" as="geometry" />
+        <mxCell id="S9xMKE54EyZnnVFfyvD--3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffcccc;labelBorderColor=none;strokeColor=#F7CAC9;strokeWidth=2;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fillColor=#F7CAC9;" vertex="1" parent="1">
+          <mxGeometry x="430" y="-250" width="220" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="1" target="uWUnNED6HEl2aK5fdaIb-10" edge="1">
-          <mxGeometry x="677" y="-124" as="geometry">
-            <mxPoint x="675" y="-180" as="sourcePoint" />
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-10" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="704" y="-135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="uWUnNED6HEl2aK5fdaIb-10" edge="1" source="uWUnNED6HEl2aK5fdaIb-13">
+          <mxGeometry x="721" y="-124" as="geometry">
+            <mxPoint x="719" y="-180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontColor=#e1d5e7;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="-10" width="30" height="30" as="geometry" />
+          <mxGeometry x="582" y="-56" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=16;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryDx=0;entryDy=0;" parent="1" source="uWUnNED6HEl2aK5fdaIb-10" target="uWUnNED6HEl2aK5fdaIb-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="580" y="300" width="30" height="30" as="geometry" />
+          <mxGeometry x="582" y="186" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=16;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;" parent="1" source="uWUnNED6HEl2aK5fdaIb-15" target="uWUnNED6HEl2aK5fdaIb-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,185 +31,243 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="500" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="465" y="27" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="500" y="200" width="30" height="30" as="geometry" />
+          <mxGeometry x="465" y="106" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-69" target="uWUnNED6HEl2aK5fdaIb-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9hBKPDzoitwpIBdzFDQ7-16" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="660" y="380" width="30" height="30" as="geometry" />
+          <mxGeometry x="704" y="265" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSUTmSiw0o1QyCeKMy4D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="1" target="uWUnNED6HEl2aK5fdaIb-17" edge="1" source="uWUnNED6HEl2aK5fdaIb-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="229" as="sourcePoint" />
-            <mxPoint x="593" y="276" as="targetPoint" />
+            <mxPoint x="513" y="194" as="sourcePoint" />
+            <mxPoint x="593" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-10" target="9hBKPDzoitwpIBdzFDQ7-16" edge="1">
-          <mxGeometry x="677" y="-24" as="geometry">
-            <mxPoint x="677" y="126" as="targetPoint" />
+          <mxGeometry x="721" y="-59" as="geometry">
+            <mxPoint x="721" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSUTmSiw0o1QyCeKMy4D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-17" target="9hBKPDzoitwpIBdzFDQ7-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="602" y="328" as="sourcePoint" />
-            <mxPoint x="648" y="304" as="targetPoint" />
+            <mxPoint x="602" y="293" as="sourcePoint" />
+            <mxPoint x="648" y="269" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-76" value="local" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="495" y="-198" width="40" height="20" as="geometry" />
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-76" value="local" style="text;html=1;strokeColor=#b3b3b3;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#666666;strokeWidth=2;labelBorderColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-89" value="개발자 local PC" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=0;fontColor=#009900;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-340" width="101" height="20" as="geometry" />
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-20" value="develop" style="text;html=1;strokeColor=default;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="562" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-20" value="develop" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="-198" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-13" value="master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="-208" width="70" height="40" as="geometry" />
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-13" value="master" style="text;html=1;strokeColor=default;fillColor=#b5e3fe;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="684" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eunuxtPJ5ODyJM5l84s7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uWUnNED6HEl2aK5fdaIb-76" target="uWUnNED6HEl2aK5fdaIb-69">
-          <mxGeometry as="geometry">
-            <mxPoint x="515" y="-170" as="sourcePoint" />
-            <mxPoint x="518.5" y="-54" as="targetPoint" />
+          <mxGeometry x="-35" as="geometry">
+            <mxPoint x="480" y="-170" as="sourcePoint" />
+            <mxPoint x="483.5" y="-54" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eunuxtPJ5ODyJM5l84s7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uWUnNED6HEl2aK5fdaIb-20" target="uWUnNED6HEl2aK5fdaIb-15">
-          <mxGeometry as="geometry">
-            <mxPoint x="597" y="-166" as="sourcePoint" />
-            <mxPoint x="600.5" y="-54" as="targetPoint" />
+          <mxGeometry x="2" as="geometry">
+            <mxPoint x="597" y="-178" as="sourcePoint" />
+            <mxPoint x="602.5" y="-54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yE04mruO_IjM41WynkQl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffcccc;strokeColor=#B3B3B3;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fontColor=#666666;fillColor=#000000;align=left;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-198" width="120" height="60" as="geometry" />
+        <mxCell id="S9xMKE54EyZnnVFfyvD--2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fontColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="-180" as="sourcePoint" />
+            <mxPoint x="770" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9xMKE54EyZnnVFfyvD--4" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="-191" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-2" value="local" style="text;html=1;strokeColor=#b3b3b3;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#666666;strokeWidth=2;labelBorderColor=none;gradientColor=none;" vertex="1" parent="IumN0VU9YuX2TN0IcqZh-6">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-3" value="develop" style="text;html=1;strokeColor=default;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="IumN0VU9YuX2TN0IcqZh-6">
+          <mxGeometry y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-4" value="master" style="text;html=1;strokeColor=default;fillColor=#b5e3fe;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="IumN0VU9YuX2TN0IcqZh-6">
+          <mxGeometry y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-7" value="개발자의 local PC 브랜치 (&lt;b&gt;&lt;u&gt;develop&lt;/u&gt;&lt;/b&gt;에 대한 local)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-191" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-8" value="개발 환경 배포 대상 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-131" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IumN0VU9YuX2TN0IcqZh-10" value="통시, 운영 환경 배포 대상 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-71" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MnLMIarTVuGxA7Fiu9Yp" name="개발 완료">
-    <mxGraphModel dx="1066" dy="2762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="[개발자] TO-BE 개발 완료" id="SYOjidEatdr2NxnCeFmk">
+    <mxGraphModel dx="1130" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="628" y="-54" width="30" height="30" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-0" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-1" parent="VmFhHGzBgoIOYw3crCAJ-0" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffcccc;labelBorderColor=none;strokeColor=#F7CAC9;strokeWidth=2;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fillColor=#F7CAC9;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="310" y="-241" width="340" height="721" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;strokeColor=#B3B3B3;" parent="1" target="WIIxCO3e-V3OqHyJZPW5-1" edge="1">
-          <mxGeometry x="643" y="-124" as="geometry">
-            <mxPoint x="643" y="-250" as="sourcePoint" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-3" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="704" y="-135" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-19" target="VmFhHGzBgoIOYw3crCAJ-3">
+          <mxGeometry x="721" y="-124" as="geometry">
+            <mxPoint x="719" y="-180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontColor=#e1d5e7;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="508" y="24" width="30" height="30" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontColor=#e1d5e7;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="582" y="-56" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-1" target="WIIxCO3e-V3OqHyJZPW5-6" edge="1">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=16;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryDx=0;entryDy=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-3" target="VmFhHGzBgoIOYw3crCAJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="508" y="265" width="30" height="30" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;dashed=1;dashPattern=1 4;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="582" y="344" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;strokeColor=#B3B3B3;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-6" target="WIIxCO3e-V3OqHyJZPW5-8" edge="1">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=16;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-5" target="VmFhHGzBgoIOYw3crCAJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;startArrow=blockThin;startFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-14" target="WIIxCO3e-V3OqHyJZPW5-6" edge="1">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;startArrow=blockThin;startFill=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#000000;strokeColor=#000000;fontSize=16;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-10" target="VmFhHGzBgoIOYw3crCAJ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="387" y="101" width="30" height="30" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#666666;fillColor=#FFCE9F;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="464" y="24" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="387" y="199" width="29" height="29" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#666666;fillColor=#FFCE9F;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="464" y="265" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;strokeColor=#B3B3B3;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-14" target="WIIxCO3e-V3OqHyJZPW5-15" edge="1">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#B3B3B3;strokeColor=#666666;fontSize=16;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-10" target="VmFhHGzBgoIOYw3crCAJ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="628" y="346" width="30" height="30" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-13" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;dashed=1;dashPattern=1 4;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="704" y="424" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeColor=#B3B3B3;" parent="1" target="WIIxCO3e-V3OqHyJZPW5-8" edge="1" source="WIIxCO3e-V3OqHyJZPW5-15">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#B3B3B3;strokeColor=#000000;fontSize=16;dashed=1;dashPattern=1 4;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-11" target="VmFhHGzBgoIOYw3crCAJ-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="229" as="sourcePoint" />
-            <mxPoint x="593" y="276" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="417" y="280" />
-            </Array>
+            <mxPoint x="513" y="361" as="sourcePoint" />
+            <mxPoint x="593" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-1" target="WIIxCO3e-V3OqHyJZPW5-31" edge="1">
-          <mxGeometry x="643" y="-24" as="geometry">
-            <mxPoint x="643" y="126" as="targetPoint" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-3" target="VmFhHGzBgoIOYw3crCAJ-13">
+          <mxGeometry x="721" y="-59" as="geometry">
+            <mxPoint x="721" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;dashed=1;" parent="1" source="WIIxCO3e-V3OqHyJZPW5-8" target="WIIxCO3e-V3OqHyJZPW5-31" edge="1">
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;dashed=1;dashPattern=1 4;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-7" target="VmFhHGzBgoIOYw3crCAJ-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="602" y="328" as="sourcePoint" />
-            <mxPoint x="648" y="304" as="targetPoint" />
+            <mxPoint x="602" y="460" as="sourcePoint" />
+            <mxPoint x="648" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-38" value="local" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-220" width="91" height="20" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-17" value="feature" style="text;html=1;strokeColor=#000000;fillColor=#FFCE9F;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#000000;strokeWidth=2;labelBorderColor=none;gradientColor=none;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="444" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-39" value="개발자의 Local PC" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="337" y="-200" width="240" height="20" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-18" value="develop" style="text;html=1;strokeColor=default;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="562" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-40" value="보조 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="497.75" y="-200" width="240" height="20" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-19" value="master" style="text;html=1;strokeColor=default;fillColor=#b5e3fe;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="684" y="-230" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-41" value="feature" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="499.75" y="-220" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-42" value="개발 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="628" y="-280" width="146.75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WIIxCO3e-V3OqHyJZPW5-43" value="develop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="628" y="-309" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="SCVyoPqIpBLExOqDXc17-2" value="&lt;h1&gt;&lt;ul&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;기능을 다 완성할 때까지 유지하고, 다 완성되면 develop 브랜치로 merge 하고&lt;/strong&gt;&lt;/li&gt;&lt;br&gt;&lt;li&gt;&lt;strong&gt;결과가 좋지 못하면 버리는 방향&lt;/strong&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Gowun Dodum;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-510" width="590" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="gEp1nPR9UnfC1872vCPv-1" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="744" y="-133" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gEp1nPR9UnfC1872vCPv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" edge="1" parent="1" target="gEp1nPR9UnfC1872vCPv-1">
-          <mxGeometry x="759" y="-203" as="geometry">
-            <mxPoint x="759" y="-245" as="sourcePoint" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-17" target="VmFhHGzBgoIOYw3crCAJ-10">
+          <mxGeometry x="-36" as="geometry">
+            <mxPoint x="479" y="-170" as="sourcePoint" />
+            <mxPoint x="482.5" y="-54" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEp1nPR9UnfC1872vCPv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" edge="1" parent="1" source="gEp1nPR9UnfC1872vCPv-1">
-          <mxGeometry x="759" y="-103" as="geometry">
-            <mxPoint x="759" y="520" as="targetPoint" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B3B3B3;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-18" target="VmFhHGzBgoIOYw3crCAJ-5">
+          <mxGeometry x="2" as="geometry">
+            <mxPoint x="597" y="-178" as="sourcePoint" />
+            <mxPoint x="602.5" y="-54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEp1nPR9UnfC1872vCPv-9" value="master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-309" width="50" height="42" as="geometry" />
+        <mxCell id="VmFhHGzBgoIOYw3crCAJ-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fontColor=#666666;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="-180" as="sourcePoint" />
+            <mxPoint x="770" y="-150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="X8RvC26wghXXh8t0Rij7-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gEp1nPR9UnfC1872vCPv-1" target="WIIxCO3e-V3OqHyJZPW5-1">
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-0" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-5" value="개발자의 local PC 브랜치 (&lt;u&gt;feature&lt;/u&gt;에 대한 local)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="1020" y="-191" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-6" value="개발 환경 배포 대상 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="1020" y="-70" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-7" value="통시, 운영 환경 배포 대상 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="1020" y="-10" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsQiJrQlT29mQbfkLcBA-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="343" y="105" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsQiJrQlT29mQbfkLcBA-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="343" y="184" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EsQiJrQlT29mQbfkLcBA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="EsQiJrQlT29mQbfkLcBA-0" target="EsQiJrQlT29mQbfkLcBA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EsQiJrQlT29mQbfkLcBA-3" value="local" style="text;html=1;strokeColor=#b3b3b3;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#666666;strokeWidth=2;labelBorderColor=none;gradientColor=none;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="323" y="-230" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EsQiJrQlT29mQbfkLcBA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="EsQiJrQlT29mQbfkLcBA-3" target="EsQiJrQlT29mQbfkLcBA-0">
+          <mxGeometry x="-157" as="geometry">
+            <mxPoint x="358" y="-170" as="sourcePoint" />
+            <mxPoint x="361.5" y="-54" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0l-WDBFioh_ci16qXF9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;startArrow=blockThin;startFill=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#000000;strokeColor=#B3B3B3;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="EsQiJrQlT29mQbfkLcBA-0" target="VmFhHGzBgoIOYw3crCAJ-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="744" y="-48" as="sourcePoint" />
-            <mxPoint x="624" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="759" y="-39" />
-            </Array>
+            <mxPoint x="391" y="119" as="sourcePoint" />
+            <mxPoint x="494" y="54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X8RvC26wghXXh8t0Rij7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;dashed=1;dashPattern=8 8;strokeColor=#B3B3B3;" edge="1" parent="1">
+        <mxCell id="K5sdbAFbFAQCxDxX-xth-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;startArrow=blockThin;startFill=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#000000;strokeColor=#B3B3B3;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VmFhHGzBgoIOYw3crCAJ-1" source="VmFhHGzBgoIOYw3crCAJ-11" target="EsQiJrQlT29mQbfkLcBA-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="522.5" y="295" as="sourcePoint" />
-            <mxPoint x="522.5" y="506" as="targetPoint" />
+            <mxPoint x="338" y="295" as="sourcePoint" />
+            <mxPoint x="444" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWPVbmRk3dD7z3bqM7jh-1" value="통시 배포" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="744" y="-280" width="240" height="20" as="geometry" />
+        <mxCell id="YcDfxueIokB7W6AJmJrH-2" value="만약 결과가&lt;br&gt;좋지 못하면 버린다." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="474.5" y="360" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-2" value="local" style="text;html=1;strokeColor=#b3b3b3;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;fontColor=#666666;strokeWidth=2;labelBorderColor=none;gradientColor=none;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="960" y="-191" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-3" value="develop" style="text;html=1;strokeColor=default;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="960" y="-70" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-4" value="master" style="text;html=1;strokeColor=default;fillColor=#b5e3fe;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="960" y="-10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fazb7XBJVv4RdtHEy03o-1" value="feature" style="text;html=1;strokeColor=default;fillColor=#ffce9f;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="960" y="-131" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fazb7XBJVv4RdtHEy03o-2" value="보조 브랜치 (새로운 기능 추가 시)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="VmFhHGzBgoIOYw3crCAJ-1">
+          <mxGeometry x="1020" y="-131" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="개발 검증" id="ijd-3aYyux7xCwZw-0eD">
-    <mxGraphModel dx="1492" dy="3399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2260" dy="3399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NoDV3AyU2vVb36gpwxh4-0" />
         <mxCell id="NoDV3AyU2vVb36gpwxh4-1" parent="NoDV3AyU2vVb36gpwxh4-0" />
@@ -408,7 +469,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="통시 배포" id="VZb5tnnVRGpxYD8fXYVb">
-    <mxGraphModel dx="1243" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9Ci1aZicTOePOj_EyE2e-0" />
         <mxCell id="9Ci1aZicTOePOj_EyE2e-1" parent="9Ci1aZicTOePOj_EyE2e-0" />
