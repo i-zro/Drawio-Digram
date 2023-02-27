@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:04:52.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="jJaH0aIvozC61pLRiqa-" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:05:01.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="foWQmEH9UYsgBAIQrPuZ" version="20.8.23" type="github" pages="7">
   <diagram id="53IQXVl9icCSp_Kw3Ib1" name="[개발자] AS-IS">
     <mxGraphModel dx="2028" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -536,7 +536,7 @@
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-0" />
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-1" parent="9Rg2xvKrm4_m_ygqFavr-0" />
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffcccc;labelBorderColor=none;strokeColor=#d7e2e5;strokeWidth=2;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fillColor=#d7e2e5;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
-          <mxGeometry x="550" y="-241" width="240" height="736" as="geometry" />
+          <mxGeometry x="550" y="-241" width="360" height="961" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-3" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="827" y="-135" width="30" height="30" as="geometry" />
