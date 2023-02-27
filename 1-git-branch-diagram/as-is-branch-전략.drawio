@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:11:36.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="0wOqRnrBaToKTt8jXT3D" version="20.8.23" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:13:10.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="rBpLRn7PRrCYCRBGxQB3" version="20.8.23" type="github" pages="8">
   <diagram id="53IQXVl9icCSp_Kw3Ib1" name="[개발자] AS-IS">
     <mxGraphModel dx="2028" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -900,16 +900,16 @@
         <mxCell id="d3lfxKGrRJVz_oCFUy3D-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
           <mxGeometry x="582" y="583" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3lfxKGrRJVz_oCFUy3D-50" value="release" style="text;html=1;strokeColor=default;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
+        <mxCell id="d3lfxKGrRJVz_oCFUy3D-50" value="hotfix" style="text;html=1;strokeColor=default;fillColor=#FFCCCC;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
           <mxGeometry x="1104" y="-10" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3lfxKGrRJVz_oCFUy3D-51" value="개발(릴리즈 대상 개발 환경 점검 필요시) Tagging 하는 용도로만 사용하는 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
+        <mxCell id="d3lfxKGrRJVz_oCFUy3D-51" value="master를 수정해야 하는 경우" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
           <mxGeometry x="1164" y="-10" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HEV_uhP4EN9at6DzOmuD-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=4;fontSize=12;fontColor=#666666;endArrow=blockThin;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="d3lfxKGrRJVz_oCFUy3D-1" source="HEV_uhP4EN9at6DzOmuD-0" target="d3lfxKGrRJVz_oCFUy3D-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HEV_uhP4EN9at6DzOmuD-0" value="bug 발생" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;labelPosition=center;align=center;fontColor=#FF3333;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
+        <mxCell id="HEV_uhP4EN9at6DzOmuD-0" value="bug 발생" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#ae4132;fillColor=#fad9d5;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;labelPosition=center;align=center;fontColor=#ff0000;" vertex="1" parent="d3lfxKGrRJVz_oCFUy3D-1">
           <mxGeometry x="827" y="345" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
