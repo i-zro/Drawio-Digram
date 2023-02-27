@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T05:23:39.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="RaUR-3WVDE-DZvDnwjDA" version="20.8.23" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-02-27T05:30:50.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="As2CHoxvLgHM-PgFMmbm" version="20.8.23" type="github" pages="5">
   <diagram id="53IQXVl9icCSp_Kw3Ib1" name="AS-IS">
     <mxGraphModel dx="1385" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -597,7 +597,7 @@
         <mxCell id="9Ci1aZicTOePOj_EyE2e-23" value="develop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
           <mxGeometry x="624" y="-230" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-24" value="&lt;h1&gt;&lt;ul&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;feature 브랜치들이 모두 develop 브랜치에 merge 되었다면 QA를 위해&amp;nbsp;release&amp;nbsp;브랜치를 생성한다.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;release&amp;nbsp;브랜치를 통해 오류가 확인된다면&amp;nbsp;release&amp;nbsp;브랜치 내에서 수정을 진행한다.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;QA와 테스트를 모두 통과했다면, 배포를 위해&amp;nbsp;release&amp;nbsp;브랜치를&amp;nbsp;master&amp;nbsp;브랜치&amp;nbsp;쪽으로 merge하며,&lt;/li&gt;&lt;br/&gt;&lt;li&gt;만일&amp;nbsp;release&amp;nbsp;브랜치 내부에서 오류 수정이 진행되었을 경우 동기화를 위해&amp;nbsp;develop&amp;nbsp;브랜치&amp;nbsp;쪽에도 merge를 진행한다.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Gowun Dodum;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
+        <mxCell id="9Ci1aZicTOePOj_EyE2e-24" value="&lt;h1&gt;&lt;ul&gt;&lt;ul&gt;&lt;br/&gt;&lt;li&gt;만일 배포된 라이브 서버(master)에서 버그가 발생된다면,&amp;nbsp;hotfix&amp;nbsp;브랜치를 생성하여 버그 픽스를 진행한다.&lt;/li&gt;&lt;br/&gt;&lt;li&gt;그리고 종료된 버그 픽스를&amp;nbsp;master와&amp;nbsp;develop&amp;nbsp;양 쪽에 merge하여 동기화 시킨다.&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Gowun Dodum;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
           <mxGeometry x="280" y="-680" width="990" height="350" as="geometry" />
         </mxCell>
         <mxCell id="9Ci1aZicTOePOj_EyE2e-25" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
@@ -608,7 +608,7 @@
             <mxPoint x="803" y="-245" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-25" target="9Ci1aZicTOePOj_EyE2e-40">
+        <mxCell id="9Ci1aZicTOePOj_EyE2e-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="XMwLSx-7jvIj5UTfYcEZ-0" target="9Ci1aZicTOePOj_EyE2e-40">
           <mxGeometry x="803" y="-103" as="geometry">
             <mxPoint x="803" y="520" as="targetPoint" />
           </mxGeometry>
@@ -632,23 +632,13 @@
             <mxPoint x="522.5" y="506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-31" value="bug 발생" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;fontColor=#ff0000;fontSize=14;fontStyle=1" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
-          <mxGeometry x="707.75" y="430" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-13" target="9Ci1aZicTOePOj_EyE2e-31">
+        <mxCell id="9Ci1aZicTOePOj_EyE2e-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-13" target="XMwLSx-7jvIj5UTfYcEZ-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="666.75" y="364" as="sourcePoint" />
-            <mxPoint x="771.75" y="430" as="targetPoint" />
+            <mxPoint x="708" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;strokeColor=#B3B3B3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-31" target="9Ci1aZicTOePOj_EyE2e-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="723" y="460" as="sourcePoint" />
-            <mxPoint x="722.25" y="691" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
+        <mxCell id="9Ci1aZicTOePOj_EyE2e-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#f8cecc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
           <mxGeometry x="707.75" y="510" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ci1aZicTOePOj_EyE2e-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;strokeColor=#B3B3B3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;startArrow=none;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-34" target="9Ci1aZicTOePOj_EyE2e-36">
@@ -658,7 +648,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ci1aZicTOePOj_EyE2e-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;bug fix완료&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#fff2cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;fontColor=#FF0019;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
+        <mxCell id="9Ci1aZicTOePOj_EyE2e-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;bug fix완료&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#f8cecc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;fontColor=#ff0000;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
           <mxGeometry x="707.75" y="585" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Ci1aZicTOePOj_EyE2e-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-39" target="9Ci1aZicTOePOj_EyE2e-39">
@@ -706,258 +696,22 @@
         <mxCell id="9Ci1aZicTOePOj_EyE2e-46" value="통시 배포" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
           <mxGeometry x="778" y="-280" width="146.75" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="ACoJFRhspco26N80TmIc" name="개발 검증">
-    <mxGraphModel dx="1979" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="662" y="-54" width="30" height="30" as="geometry" />
+        <mxCell id="XMwLSx-7jvIj5UTfYcEZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="9Ci1aZicTOePOj_EyE2e-25" target="XMwLSx-7jvIj5UTfYcEZ-0">
+          <mxGeometry x="803" y="-103" as="geometry">
+            <mxPoint x="803" y="670" as="targetPoint" />
+            <mxPoint x="803" y="-103" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="662" y="505" width="30" height="30" as="geometry" />
+        <mxCell id="XMwLSx-7jvIj5UTfYcEZ-0" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;labelPosition=center;align=center;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
+          <mxGeometry x="788" y="430" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#33001A;fillColor=#B5E3FE;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="662" y="757" width="30" height="30" as="geometry" />
+        <mxCell id="XMwLSx-7jvIj5UTfYcEZ-2" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 0, 25); font-family: &amp;quot;Gowun Dodum&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;bug 발생&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Gowun Dodum;fontColor=#ff0000;rotation=90;" vertex="1" parent="9Ci1aZicTOePOj_EyE2e-1">
+          <mxGeometry x="788" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-2" target="3LlVVKdeGitCBVTYPXvX-3" edge="1">
+        <mxCell id="XMwLSx-7jvIj5UTfYcEZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9Ci1aZicTOePOj_EyE2e-1" source="XMwLSx-7jvIj5UTfYcEZ-0" target="9Ci1aZicTOePOj_EyE2e-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="677" y="617" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" target="3LlVVKdeGitCBVTYPXvX-1" edge="1">
-          <mxGeometry x="677" y="-124" as="geometry">
-            <mxPoint x="677" y="-166" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontColor=#e1d5e7;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="24" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-1" target="3LlVVKdeGitCBVTYPXvX-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="293" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-6" target="3LlVVKdeGitCBVTYPXvX-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-11" target="3LlVVKdeGitCBVTYPXvX-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="396" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-8" target="3LlVVKdeGitCBVTYPXvX-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;startArrow=blockThin;startFill=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-14" target="3LlVVKdeGitCBVTYPXvX-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="497" y="101" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="497" y="199" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-14" target="3LlVVKdeGitCBVTYPXvX-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="497" y="509" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-15" target="3LlVVKdeGitCBVTYPXvX-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#D5E8D4;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="497" y="611" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontColor=#009900;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-17" target="3LlVVKdeGitCBVTYPXvX-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-21" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Gowun Dodum;fontColor=#009900;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="593" y="-148" as="sourcePoint" />
-            <mxPoint x="593" y="-28" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-11" target="3LlVVKdeGitCBVTYPXvX-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="592" y="620" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="577" y="680" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;fontFamily=Gowun Dodum;fontColor=#009900;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-19" target="3LlVVKdeGitCBVTYPXvX-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-27" target="3LlVVKdeGitCBVTYPXvX-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="677" y="443" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="662" y="362" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-28" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Gowun Dodum;fontColor=#009900;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504" y="-119" as="sourcePoint" />
-            <mxPoint x="504" y="71" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" target="3LlVVKdeGitCBVTYPXvX-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="513" y="229" as="sourcePoint" />
-            <mxPoint x="593" y="276" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="513" y="256" />
-              <mxPoint x="593" y="256" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-11" target="3LlVVKdeGitCBVTYPXvX-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="577" y="328" as="sourcePoint" />
-            <mxPoint x="528" y="354" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-1" target="3LlVVKdeGitCBVTYPXvX-27" edge="1">
-          <mxGeometry x="677" y="-24" as="geometry">
-            <mxPoint x="677" y="126" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-8" target="3LlVVKdeGitCBVTYPXvX-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="602" y="328" as="sourcePoint" />
-            <mxPoint x="648" y="304" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-33" value="local" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="424" y="-220" width="91" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-34" value="개발자의 Local PC" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="422" y="-200" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-35" value="보조 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="560.75" y="-200" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-36" value="feature" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="562.75" y="-220" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-37" value="통시/운영 배포" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="656" y="-200" width="146.75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3LlVVKdeGitCBVTYPXvX-38" value="develop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="658" y="-230" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#8AD33C;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="506" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#33001A;fillColor=#8AD33C;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="758" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-12" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="0mcRA4HMssQuvIetIEa5-10" target="0mcRA4HMssQuvIetIEa5-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="765" y="618" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="0mcRA4HMssQuvIetIEa5-15" target="0mcRA4HMssQuvIetIEa5-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="765" y="444" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#8AD33C;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="750" y="413" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" source="3LlVVKdeGitCBVTYPXvX-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="653" y="377" as="sourcePoint" />
-            <mxPoint x="763.69" y="413" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-31" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="827" y="-260" width="50" height="1017" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;fontColor=#e1d5e7;startArrow=blockThin;startFill=0;endArrow=blockThin;endFill=0;" parent="0mcRA4HMssQuvIetIEa5-31" source="0mcRA4HMssQuvIetIEa5-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="13" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#ffe6cc;strokeColor=#000000;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="0mcRA4HMssQuvIetIEa5-31" vertex="1">
-          <mxGeometry x="4" y="176" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#ffe6cc;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="0mcRA4HMssQuvIetIEa5-31" vertex="1">
-          <mxGeometry x="4" y="815" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#33001A;fillColor=#B5E3FE;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="0mcRA4HMssQuvIetIEa5-31" vertex="1">
-          <mxGeometry x="4" y="1067" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="0mcRA4HMssQuvIetIEa5-31" source="0mcRA4HMssQuvIetIEa5-23" target="0mcRA4HMssQuvIetIEa5-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="19" y="927" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="0mcRA4HMssQuvIetIEa5-31" target="0mcRA4HMssQuvIetIEa5-22" edge="1">
-          <mxGeometry x="19" y="106" as="geometry">
-            <mxPoint x="19" y="64" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endArrow=none;endFill=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="0mcRA4HMssQuvIetIEa5-31" source="0mcRA4HMssQuvIetIEa5-28" target="0mcRA4HMssQuvIetIEa5-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="19" y="753" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#000000;fillColor=#ffe6cc;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="0mcRA4HMssQuvIetIEa5-31" vertex="1">
-          <mxGeometry x="4" y="672" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;plain-blue;endArrow=none;endFill=0;strokeWidth=4;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="0mcRA4HMssQuvIetIEa5-31" source="0mcRA4HMssQuvIetIEa5-22" target="0mcRA4HMssQuvIetIEa5-28" edge="1">
-          <mxGeometry x="19" y="206" as="geometry">
-            <mxPoint x="19" y="356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-30" value="master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="0mcRA4HMssQuvIetIEa5-31" vertex="1">
-          <mxGeometry width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=0.5;exitY=1;exitPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0mcRA4HMssQuvIetIEa5-22" target="3LlVVKdeGitCBVTYPXvX-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="793" y="-63" as="sourcePoint" />
-            <mxPoint x="700" y="-40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="831" y="-40" />
-              <mxPoint x="762" y="-40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0mcRA4HMssQuvIetIEa5-35" value="release" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="752.75" y="-231" width="50" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="9A3XXJc9LG9i2iD-2Tj4-1" value="Tag: 1.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;rotation=90;container=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="-74" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9A3XXJc9LG9i2iD-2Tj4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" target="9A3XXJc9LG9i2iD-2Tj4-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="-119" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="885" y="-119" />
-              <mxPoint x="885" y="-119" />
-            </Array>
-            <mxPoint x="885" y="-127" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9A3XXJc9LG9i2iD-2Tj4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=Gowun Dodum;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;" parent="1" target="3LlVVKdeGitCBVTYPXvX-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="520" as="sourcePoint" />
-            <mxPoint x="821.69" y="556" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9A3XXJc9LG9i2iD-2Tj4-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;html=1;exitX=0.5;exitY=0;exitPerimeter=0;entryX=0.5;entryY=1;entryPerimeter=0;endArrow=blockThin;endFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=4;fontSize=15;fontFamily=Gowun Dodum;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGowun%2BDodum;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="0mcRA4HMssQuvIetIEa5-10" target="0mcRA4HMssQuvIetIEa5-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="791.94" y="520" as="sourcePoint" />
-            <mxPoint x="876.94" y="599" as="targetPoint" />
+            <mxPoint x="786.35" y="483" as="sourcePoint" />
+            <mxPoint x="916.35" y="567" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
