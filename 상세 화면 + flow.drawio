@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T10:08:02.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="HoWSctpjnnXB6VJCvJX1" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-27T10:08:31.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="2-ZHlguWD35YgmRH52Pb" version="20.8.23" type="github" pages="3">
   <diagram name="페이지-1" id="s2ZAB4Ll1rrzcyQKlv1O">
     <mxGraphModel dx="3072" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -466,6 +466,9 @@
             <mxPoint x="-20" y="480" as="sourcePoint" />
             <mxPoint x="-20" y="510" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I5838CnCFii8NzKIoUJF-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;strokeColor=#ff0000;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="420" width="200" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
