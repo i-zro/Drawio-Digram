@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T08:55:42.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="mJo17V88o_uaoGNVlwEc" version="20.8.23" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:04:52.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Whale/3.19.166.16 Safari/537.36" etag="jJaH0aIvozC61pLRiqa-" version="20.8.23" type="github" pages="7">
   <diagram id="53IQXVl9icCSp_Kw3Ib1" name="[개발자] AS-IS">
     <mxGraphModel dx="2028" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="uWUnNED6HEl2aK5fdaIb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-69" target="uWUnNED6HEl2aK5fdaIb-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9hBKPDzoitwpIBdzFDQ7-16" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="9hBKPDzoitwpIBdzFDQ7-16" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
           <mxGeometry x="704" y="265" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSUTmSiw0o1QyCeKMy4D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-70" target="uWUnNED6HEl2aK5fdaIb-17" edge="1">
@@ -53,7 +53,7 @@
             <mxPoint x="721" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSUTmSiw0o1QyCeKMy4D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="1" source="uWUnNED6HEl2aK5fdaIb-17" target="9hBKPDzoitwpIBdzFDQ7-16" edge="1">
+        <mxCell id="dSUTmSiw0o1QyCeKMy4D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;dashed=1;dashPattern=1 4;" parent="1" source="uWUnNED6HEl2aK5fdaIb-17" target="9hBKPDzoitwpIBdzFDQ7-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="602" y="293" as="sourcePoint" />
             <mxPoint x="648" y="269" as="targetPoint" />
@@ -87,7 +87,7 @@
             <mxPoint x="770" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S9xMKE54EyZnnVFfyvD--4" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="1" vertex="1">
+        <mxCell id="S9xMKE54EyZnnVFfyvD--4" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br&gt;- 점선 : 검증 후 적용" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="1" vertex="1">
           <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IumN0VU9YuX2TN0IcqZh-6" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -154,7 +154,7 @@
         <mxCell id="p7uyeLxGc2uQ2dMEtMei-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="p7uyeLxGc2uQ2dMEtMei-1" source="p7uyeLxGc2uQ2dMEtMei-10" target="p7uyeLxGc2uQ2dMEtMei-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p7uyeLxGc2uQ2dMEtMei-13" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" parent="p7uyeLxGc2uQ2dMEtMei-1" vertex="1">
+        <mxCell id="p7uyeLxGc2uQ2dMEtMei-13" value="Tag: 0.2" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;strokeColor=#000000;fillColor=#B5E3FE;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;dashed=1;dashPattern=1 4;" parent="p7uyeLxGc2uQ2dMEtMei-1" vertex="1">
           <mxGeometry x="704" y="265" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7uyeLxGc2uQ2dMEtMei-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#B3B3B3;strokeColor=#B3B3B3;fontSize=16;" parent="p7uyeLxGc2uQ2dMEtMei-1" source="p7uyeLxGc2uQ2dMEtMei-11" target="p7uyeLxGc2uQ2dMEtMei-7" edge="1">
@@ -168,7 +168,7 @@
             <mxPoint x="721" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7uyeLxGc2uQ2dMEtMei-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="p7uyeLxGc2uQ2dMEtMei-1" source="p7uyeLxGc2uQ2dMEtMei-7" target="p7uyeLxGc2uQ2dMEtMei-13" edge="1">
+        <mxCell id="p7uyeLxGc2uQ2dMEtMei-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;dashed=1;dashPattern=1 4;" parent="p7uyeLxGc2uQ2dMEtMei-1" source="p7uyeLxGc2uQ2dMEtMei-7" target="p7uyeLxGc2uQ2dMEtMei-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="602" y="293" as="sourcePoint" />
             <mxPoint x="648" y="269" as="targetPoint" />
@@ -202,7 +202,7 @@
             <mxPoint x="770" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7uyeLxGc2uQ2dMEtMei-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="p7uyeLxGc2uQ2dMEtMei-1" vertex="1">
+        <mxCell id="p7uyeLxGc2uQ2dMEtMei-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br&gt;- 점선 : 검증 후 적용" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="p7uyeLxGc2uQ2dMEtMei-1" vertex="1">
           <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p7uyeLxGc2uQ2dMEtMei-24" value="" style="group" parent="p7uyeLxGc2uQ2dMEtMei-1" vertex="1" connectable="0">
@@ -317,7 +317,7 @@
             <mxPoint x="770" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YVP50NTUC-HIaQSgvbUz-0" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="VmFhHGzBgoIOYw3crCAJ-1" vertex="1">
+        <mxCell id="YVP50NTUC-HIaQSgvbUz-0" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br&gt;- 점선 : 검증 후 적용" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="VmFhHGzBgoIOYw3crCAJ-1" vertex="1">
           <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YVP50NTUC-HIaQSgvbUz-5" value="개발자의 local PC 브랜치 (&lt;u&gt;feature&lt;/u&gt;에 대한 local)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" parent="VmFhHGzBgoIOYw3crCAJ-1" vertex="1">
@@ -435,7 +435,7 @@
             <mxPoint x="721" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfk-KWhkCK4J-DHfp1E7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;" parent="yfk-KWhkCK4J-DHfp1E7-1" source="yfk-KWhkCK4J-DHfp1E7-7" target="yfk-KWhkCK4J-DHfp1E7-13" edge="1">
+        <mxCell id="yfk-KWhkCK4J-DHfp1E7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;strokeWidth=4;curved=1;fontFamily=LINE Seed;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;dashed=1;dashPattern=1 4;" parent="yfk-KWhkCK4J-DHfp1E7-1" source="yfk-KWhkCK4J-DHfp1E7-7" target="yfk-KWhkCK4J-DHfp1E7-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="602" y="460" as="sourcePoint" />
             <mxPoint x="648" y="436" as="targetPoint" />
@@ -469,7 +469,7 @@
             <mxPoint x="770" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yfk-KWhkCK4J-DHfp1E7-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="yfk-KWhkCK4J-DHfp1E7-1" vertex="1">
+        <mxCell id="yfk-KWhkCK4J-DHfp1E7-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br&gt;- 점선 : 검증 후 적용" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" parent="yfk-KWhkCK4J-DHfp1E7-1" vertex="1">
           <mxGeometry x="960" y="-241" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yfk-KWhkCK4J-DHfp1E7-24" value="개발자의 local PC 브랜치 (&lt;u&gt;feature&lt;/u&gt;에 대한 local)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" parent="yfk-KWhkCK4J-DHfp1E7-1" vertex="1">
@@ -536,7 +536,7 @@
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-0" />
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-1" parent="9Rg2xvKrm4_m_ygqFavr-0" />
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#ffcccc;labelBorderColor=none;strokeColor=#d7e2e5;strokeWidth=2;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;fontSize=16;fillColor=#d7e2e5;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
-          <mxGeometry x="1650" y="-131" width="240" height="736" as="geometry" />
+          <mxGeometry x="550" y="-241" width="240" height="736" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-3" value="Tag: 0.1" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-blue;gradientColor=none;fillColor=#B5E3Fe;strokeColor=#000000;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;labelPosition=center;align=center;fontSize=16;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="827" y="-135" width="30" height="30" as="geometry" />
@@ -621,7 +621,7 @@
             <mxPoint x="893" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Rg2xvKrm4_m_ygqFavr-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
+        <mxCell id="9Rg2xvKrm4_m_ygqFavr-23" value="- 빨간 사각형 : 개발자의 R&amp;amp;R 영역&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- 회색 선 : origin에 존재하지 않거나 사라질 수 있는 브랜치의 작업 내역&lt;br&gt;- 점선 : 검증 후 적용" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="1104" y="-241" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-24" value="개발자의 local PC 브랜치 (&lt;u&gt;feature&lt;/u&gt;에 대한 local)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
@@ -631,7 +631,7 @@
           <mxGeometry x="1164" y="-70" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-26" value="통시, 운영 환경 배포 대상 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
-          <mxGeometry x="1164" y="-10" width="245" height="30" as="geometry" />
+          <mxGeometry x="1164" y="50" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#B3B3B3;fillColor=#D5E8D4;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="343" y="106" width="30" height="30" as="geometry" />
@@ -671,7 +671,7 @@
           <mxGeometry x="1104" y="-70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-37" value="master" style="text;html=1;strokeColor=default;fillColor=#b5e3fe;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
-          <mxGeometry x="1104" y="-10" width="50" height="30" as="geometry" />
+          <mxGeometry x="1104" y="50" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9Rg2xvKrm4_m_ygqFavr-38" value="feature" style="text;html=1;strokeColor=default;fillColor=#ffce9f;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="1104" y="-131" width="50" height="30" as="geometry" />
@@ -714,6 +714,12 @@
         </mxCell>
         <mxCell id="Jf5trjtkIUR-tzQ2pxvw-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=#E1D5E7;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=90;container=0;fontSize=16;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
           <mxGeometry x="582" y="664" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SLxopAGCrvMLl72hE28d-0" value="release" style="text;html=1;strokeColor=default;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=8;fontStyle=1;fontFamily=LINE Seed;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_11-01%401.0%2FLINESeedKR-Bd.woff2;rotation=0;container=0;strokeWidth=2;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
+          <mxGeometry x="1104" y="-10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SLxopAGCrvMLl72hE28d-1" value="개발(릴리즈 대상 개발 환경 점검 필요시) Tagging 하는 용도로만 사용하는 브랜치" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=LINE Seed;fontColor=#0080ff;container=0;" vertex="1" parent="9Rg2xvKrm4_m_ygqFavr-1">
+          <mxGeometry x="1164" y="-10" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
